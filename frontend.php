@@ -332,7 +332,10 @@ return [
 
     'reviews.one_per_line' => 'Nebūtina, įveskite į atskiras eilutes.',
 
-    'categories' => 'Kategorijos'
+    /* Additional translations */
 
+    'categories' => 'Kategorijos',
+
+    
 ];
 

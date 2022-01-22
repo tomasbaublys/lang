@@ -126,7 +126,7 @@ return [
         'description' => 'Configure store notifications',
     ],
     'price_category_settings' => [
-        'label' => 'Price categories',
+        'label' => 'Kainos',
         'description' => 'Configure additional price categories',
     ],
     'order_state_settings' => [
@@ -351,7 +351,7 @@ return [
         'switch' => 'Switch',
         'add' => 'Add option',
         'name' => 'Name',
-        'price' => 'Price',
+        'price' => 'Kaina',
         'attributes' => 'Attribute',
         'option' => 'Option',
         'date' => 'Date',
@@ -371,7 +371,7 @@ return [
         'not_published' => 'Not published',
         'published_comment' => 'This product is visible on the website',
         'stock' => 'Stock',
-        'price' => 'Price',
+        'price' => 'Kaina',
         'description_short' => 'Short description',
         'description' => 'Description',
         'weight' => 'Weight',
@@ -716,7 +716,7 @@ return [
             ],
             'properties' => [
                 'showPriceFilter' => [
-                    'title' => 'Show price filter',
+                    'title' => 'Rodyti kainos filtrą',
                 ],
                 'showBrandFilter' => [
                     'title' => 'Show brand filter',
@@ -742,15 +742,15 @@ return [
                 ],
             ],
             'sortOrder' => [
-                'bestseller' => 'Bestseller',
-                'priceLow' => 'Lowest price',
-                'priceHigh' => 'Highest price',
-                'latest' => 'Latest',
-                'oldest' => 'Oldest',
+                'bestseller' => 'Geriausiai parduodami',
+                'priceLow' => 'Pigiausi',
+                'priceHigh' => 'Brangiausi',
+                'latest' => 'Naujausi',
+                'oldest' => 'Seniausi',
                 'random' => 'Random',
                 'manual' => 'Manual',
                 'name' => 'Name',
-                'ratings' => 'Ratings',
+                'ratings' => 'Geriausiai įvertinti',
             ],
         ],
         'myAccount' => [
