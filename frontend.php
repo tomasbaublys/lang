@@ -335,7 +335,6 @@ return [
     /* Additional translations */
 
     'categories' => 'Kategorijos',
-
-    
+  
 ];
 
