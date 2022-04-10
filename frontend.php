@@ -84,7 +84,7 @@ return [
 
     'signup.as_guest' => 'Pirkti be registracijos',
 
-    'signup.terms_checkbox' => 'Aš perskaičiau ir sutinku su parduotuvės taisyklėmis *',
+    'signup.terms_checkbox' => 'Perskaičiau ir sutinku su parduotuvės taisyklėmis *',
 
     'form.forgot_password' => 'Pamiršote slaptažodį?',
 
@@ -94,15 +94,15 @@ return [
 
     'form.company' => 'Įmonė',
 
-    'form.company_placeholder' => 'Nepildykite, jeigu jūs privatus asmuo',
+    'form.company_placeholder' => '',
 
     'form.recipient' => "Gavėjo vardas",
 
-    'form.recipient_placeholder' => "Nepildykite, jeigu užsakymas skirtas jums",
+    'form.recipient_placeholder' => "",
 
     'form.address_lines' => 'Adresas',
 
-    'form.zip' => 'Paštom indeksas',
+    'form.zip' => 'Paštom kodas',
 
     'form.city' => 'Miestas',
 
@@ -112,7 +112,7 @@ return [
 
     'proceed_to_checkout' => 'Tęsti',
 
-    'address' => 'Adreas',
+    'address' => 'Adresas',
 
     'billing_address' => 'Mokėtojo adresas',
 
@@ -218,7 +218,7 @@ return [
 
     'session.logout' => 'Atsijungti',
 
-    'session.login_signup' => 'Prisijungti arba Registruotis',
+    'session.login_signup' => 'Prisijungti',
 
     'session.login_required' => 'Prisijunkite norėdami tęsti',
 
